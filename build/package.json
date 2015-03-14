@@ -1,0 +1,17 @@
+{
+  "name": "js-utils",
+  "version": "1.0.1",
+  "description": "",
+  "author": {
+    "name": "Corey Birnbaum",
+    "email": "corey@coreybirnbaum.com",
+    "url": "https://github.com/vonWolfehaus/js-utils"
+  },
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-concat": "~2.5.2",
+    "gulp-uglify": "~1.1.0",
+    "gulp": "~3.8.11"
+  }
+}
